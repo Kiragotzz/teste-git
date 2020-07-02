@@ -1,10 +1,16 @@
 /*Aqui temos as configurações de css das tags html*/
 
-p {
+h4 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: blue;
+    color: rgba(255, 0, 255, 0.925);
+    margin-left: 5pc;
 }
 h1 {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: blue;
+    color: rgb(76, 0, 255);
+    
+}
+#demo{
+    margin-left: 5pc;
+    color: rgb(19, 81, 214);
 }
