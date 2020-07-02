@@ -1,4 +1,4 @@
-# curso-git
+# teste-git
 <p align="center">
     <img src="/img/imgHeadReadme.jpg"
     height="150" widht="150">
