@@ -1,7 +1,6 @@
 # teste-git
 <p align="center">
-    <img src="/img/imgHeadReadme.jpg"
-    height="150" widht="150">
+    <img src="/img/imgHeadReadme.jpg" height="150" widht="150" alt="simbolos JS, HTML e CSS">
 </p>
 
 <h1>Descrição</h1>
@@ -13,11 +12,11 @@
 <h1>Preview Relógio</h1>
 <p align="center">
     <img src="/img/web_executando.gif"
-    height="860" widht="1080">
+    height="860" widht="1080" alt="Gif relogio funcionando">
 </p>
 
 <h1>Linhas de Código</h1>
 <p align="center">
     <img src="/img/linhas_codigos.gif"
-    height="860" widht="1080">
+    height="860" widht="1080" alt="Gif linhas de código relogio">
 </p>

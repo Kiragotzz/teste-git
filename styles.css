@@ -11,6 +11,20 @@ h1 {
     
 }
 #demo{
-    margin-left: 5pc;
+
     color: rgb(19, 81, 214);
+}
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(0, 110, 255);
+}
+
+div {
+    border-top: ;
+    border-left: ;
+    border-right: ;
+    border-bottom: blue;
 }
